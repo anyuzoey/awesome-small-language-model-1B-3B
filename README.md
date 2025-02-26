@@ -25,9 +25,12 @@ This project explores **small-scale, efficient SLMs** (1B-3B parameters, ideally
 4. **Customer-Oriented Curation:** Compile a **filtered list** of models suited for enterprise needs.    
 
 ## Deliverables  
-- A structured **summary of SLMs** with key features.  
+- A structured **summary of SLMs** with key features (WIP).  
 - Recommendations on **which models fit specific customer constraints**.  
 - Insights on **tool-calling optimization** in small-scale LLMs.  
+
+## Model Comparison 
+🔗 [View models.csv]()
 
 ## Future Work  
 - Evaluate selected models with real-world tool-calling tasks.  
@@ -40,3 +43,6 @@ If you're interested in contributing, feel free to open an issue or submit a pul
 ## License  
 TBD (subject to model licensing constraints).  
 
+## Reference
+1. SMALL LANGUAGE MODELS: SURVEY, MEASUREMENTS, AND INSIGHTS (Sep 2024). Focusing on transformer-based, decoder-only language models with 100M–5B parameters, they survey 59 state-of-the-art open-source (as for open weights) SLMs. [paper, web, code]
+2. tbc
