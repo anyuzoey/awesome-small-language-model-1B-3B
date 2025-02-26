@@ -30,7 +30,7 @@ This project explores **small-scale, efficient SLMs** (1B-3B parameters, ideally
 - Insights on **tool-calling optimization** in small-scale LLMs.  
 
 ## Model Comparison 
-🔗 [View models.csv]()
+🔗 [View models.csv](https://github.com/anyuzoey/awesome-small-language-model-1B-3B/blob/main/Efficient%20(Agentic)%20Models%201B-3B-WIP.xlsx)
 
 ## Future Work  
 - Evaluate selected models with real-world tool-calling tasks.  
