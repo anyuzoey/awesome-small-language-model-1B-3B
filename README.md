@@ -30,7 +30,7 @@ This project explores **small-scale, efficient SLMs** (1B-3B parameters, ideally
 - Insights on **tool-calling optimization** in small-scale LLMs.  
 
 ## Model Comparison 
-🔗 [View models.csv](https://docs.google.com/spreadsheets/d/1OMOy-4koOl3Hf6ztonMSDUYjFZi7TF85eZQdu7N6GqQ/edit?usp=sharing)
+🔗 [View models.csv](https://docs.google.com/spreadsheets/d/1OMOy-4koOl3Hf6ztonMSDUYjFZi7TF85eZQdu7N6GqQ/edit?usp=sharing) this 
 
 ## Future Work  
 - Evaluate selected models with real-world tool-calling tasks.  
@@ -45,4 +45,5 @@ TBD (subject to model licensing constraints).
 
 ## Reference
 1. SMALL LANGUAGE MODELS: SURVEY, MEASUREMENTS, AND INSIGHTS (Sep 2024). Focusing on transformer-based, decoder-only language models with 100M–5B parameters, they survey 59 state-of-the-art open-source (as for open weights) SLMs. [paper, web, code]
-2. tbc
+2. Berkeley Function-Calling Leaderboard[[web]([url](https://gorilla.cs.berkeley.edu/leaderboard.html))] 
+3. tbc
