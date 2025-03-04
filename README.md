@@ -44,6 +44,6 @@ If you're interested in contributing, feel free to open an issue or submit a pul
 TBD (subject to model licensing constraints).  
 
 ## Reference
-1. SMALL LANGUAGE MODELS: SURVEY, MEASUREMENTS, AND INSIGHTS (Sep 2024). Focusing on transformer-based, decoder-only language models with 100M–5B parameters, they survey 59 state-of-the-art open-source (as for open weights) SLMs. [paper, web, code]
-2. Berkeley Function-Calling Leaderboard[[web]([url](https://gorilla.cs.berkeley.edu/leaderboard.html))] 
+1. SMALL LANGUAGE MODELS: SURVEY, MEASUREMENTS, AND INSIGHTS (Sep 2024). Focusing on transformer-based, decoder-only language models with 100M–5B parameters, they survey 59 state-of-the-art open-source (as for open weights) SLMs. [url](https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/#/slm)
+2. Berkeley Function-Calling Leaderboard [url](https://gorilla.cs.berkeley.edu/leaderboard.html)
 3. tbc
