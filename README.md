@@ -32,6 +32,9 @@ This project explores **small-scale, efficient SLMs** (1B-3B parameters, ideally
 ## Model Comparison 
 🔗 [View models.csv](https://docs.google.com/spreadsheets/d/1OMOy-4koOl3Hf6ztonMSDUYjFZi7TF85eZQdu7N6GqQ/edit?usp=sharing) this 
 
+tool_calling_table - Sheet2.csv are copied from Berkeley Function-Calling Leaderboard [url](https://gorilla.cs.berkeley.edu/leaderboard.html) 
+manual add one column with model size.
+
 ## Future Work  
 - Evaluate selected models with real-world tool-calling tasks.  
 - Conduct benchmarks on performance vs. hardware constraints.  
